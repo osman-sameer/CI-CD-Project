@@ -1,2 +1,2 @@
 # CI-CD-Project
-Creating CI and CD projects to learn 
+Creating CI and CD projects to learn CI/CD pipeline. 
